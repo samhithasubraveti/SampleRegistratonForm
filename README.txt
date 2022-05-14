@@ -1,2 +1,2 @@
-lets get a new commit id
+let a new commit id
 okok
